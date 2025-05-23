@@ -1,1 +1,1 @@
-"# Clase mayo 2025" 
+# Clase mayo 2025
