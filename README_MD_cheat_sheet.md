@@ -260,15 +260,15 @@ Los dos puntos se pueden usar para alinear columnas.
 ```
 | Tablas      |	Son	              | Geniales |
 |-------------|:---------------------:|:--------:|
-|la col 3 e	  | alineada a la derecha | $1600    |
+|la col 3 e   | alineada a la derecha | $1600    |
 |la col 2 es  | centrada	           | $12      |
 |las rayas de | cebra	son geniales  | $1       |
 ```
 
 | Tablas      |	Son	                  | Geniales |
 |-------------|:---------------------:|:--------:|
-|la col 3 es	| alineada a la derecha	| $1600    |
-|la col 2 es	| centrada	            | $12      |
+|la col 3 es  | alineada a la derecha	| $1600    |
+|la col 2 es  | centrada	            | $12      |
 |las rayas de | cebra	son geniales    | $1       |
 
 Deben haber al menos 3 guiones separando cada celda del encabezado. Las tuberías exteriores (|) son opcionales, y no es necesario que la línea de 
